@@ -2,7 +2,7 @@
 
 Ask plain-English questions about a year of spending data and get real answers, pulled from the actual numbers, not guessed by the AI.
 
-Try it live: [add your Netlify URL here]
+Try it live: [https://budget-tracker-sample.netlify.app/]
 
 ## How it works
 
